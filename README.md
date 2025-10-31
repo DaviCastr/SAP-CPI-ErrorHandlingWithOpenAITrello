@@ -60,8 +60,8 @@ This project is built in **SAP Cloud Platform Integration (SAP CPI)** and is des
 - **Continuous Improvement**: The checklist generated helps build a repository of common issues and solutions, improving future maintenance and support efficiency.
 
 # Card created by simulate an error:
-![](1.png)
+![](attachments/1.png)
 
-![](2.png)
+![](attachments/2.png)
 
-![](3.png)
+![](attachments/3.png)
