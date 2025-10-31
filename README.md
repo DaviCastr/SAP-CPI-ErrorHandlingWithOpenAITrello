@@ -62,6 +62,6 @@ This project is built in **SAP Cloud Platform Integration (SAP CPI)** and is des
 # Card created by simulate an error:
 ![](1.png)
 
+![](2.png)
 
-![]2.png)
-
+![](3.png)
